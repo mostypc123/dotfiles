@@ -1,0 +1,16 @@
+[legacy]
+default-show-menubar=false
+new-terminal-mode='tab'
+theme-variant='dark'
+
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(45,53,59)'
+cursor-colors-set=false
+font='DejaVu Sans Mono 11'
+foreground-color='rgb(211,198,170)'
+highlight-background-color='rgb(58,69,74)'
+highlight-colors-set=true
+highlight-foreground-color='rgb(211,198,170)'
+palette=['rgb(71,82,88)', 'rgb(230,126,128)', 'rgb(167,192,128)', 'rgb(170,85,0)', 'rgb(127,187,179)', 'rgb(214,153,182)', 'rgb(0,170,170)', 'rgb(170,170,170)', 'rgb(71,82,88)', 'rgb(255,85,85)', 'rgb(167,192,128)', 'rgb(219,188,127)', 'rgb(85,85,255)', 'rgb(255,85,255)', 'rgb(85,255,255)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
