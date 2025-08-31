@@ -9,9 +9,20 @@ flatpak install flathub com.vscodium.codium
 flatpak install flathub com.valvesoftware.Steam
 
 sudo pacman -S cava
+sudo pacman -S fastfetch
 
 sudo pacman -S zsh
 chsh -s /bin/zsh
 
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+
+sudo pacman -S python-pip
+sudo pacman -S nvim
+
+sudo pacman -S yay
+
+yay -S jetbrains-toolbox
+yay -S warp-terminal
+
+yay -S bunnyfetch
