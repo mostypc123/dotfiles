@@ -12,6 +12,8 @@ exec /home/mostypc123/set-sreens.sh
 
 set $mod Mod4
 
+exec picom
+
 # Font for window titles and bar
 font pango:Fira Code Nerd Font 10
 
